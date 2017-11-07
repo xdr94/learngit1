@@ -1,2 +1,2 @@
 # learngit1
-交换空间就
+Creating a new branch is quick & simple.
